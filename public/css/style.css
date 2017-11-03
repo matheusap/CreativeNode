@@ -1,6 +1,10 @@
-body {
+html {
   padding: 20px;
-  background-color: #737373;
+  background-color: #D9D9D9;
+}
+
+#welcome {
+  background-color: #D9D9D9;
 }
 
 #top-cont {
